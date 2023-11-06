@@ -1,5 +1,5 @@
 # **PyServe - A Simple HTTP Server with Python**
-
+## Created by **Ahemad Shaikh**
 PyServe is a Bash script that simplifies serving files and directories with Python's built-in HTTP server. It provides a convenient way to quickly share files or host a static website. You can choose to serve a specific directory and specify a custom port. If no arguments are provided, it serves the current directory on the default port.
 
 ## Requirement:
