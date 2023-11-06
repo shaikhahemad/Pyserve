@@ -9,7 +9,7 @@ PyServe is a Bash script that simplifies serving files and directories with Pyth
 ## **Installation:**
 
    ```bash
-   git clone 
+   git clone https://github.com/AhemadSk71/Pyserve
    cd pyserve
    chmod +x install.sh
    ./install.sh
